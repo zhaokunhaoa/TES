@@ -1,0 +1,16 @@
+PODS:
+  - TES (0.1.0)
+
+DEPENDENCIES:
+  - TES (from `../`)
+
+EXTERNAL SOURCES:
+  TES:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TES: 4645147ee154ddb5cc98d7fc79362c5ee6c4cfdf
+
+PODFILE CHECKSUM: 6dc0d4cc447c9efacdcd62a4b05d6834db5b96c3
+
+COCOAPODS: 1.9.3
